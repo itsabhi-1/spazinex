@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Case Strategy",
+    "text": "Case strategy is an essential step to help your clients achieve their goals and overcome challenges.",
+    "icon": "service/icon/strategy.png"
+  },
+  {
+    "id": 2,
+    "title": "Track Record",
+    "text": "Clintes request references from the company and reach out to their past clients to gather feedback on their experience and the company's performance.",
+    "icon": "service/icon/track-record.png"
+  },
+  {
+    "id": 3,
+    "title": "Research & Investigation",
+    "text": "Spezinex represents a proactive approach towards organizational improvement and growth.",
+    "icon": "service/icon/research.png"
+  },
+  {
+    "id": 4,
+    "title": "Case Analysis",
+    "text": "Spezinex provides a comprehensive understanding of the decision-making process, the factors influencing the chosen solution, and the outcomes achieved.",
+    "icon": "service/icon/analysis.png"
+  }
+]

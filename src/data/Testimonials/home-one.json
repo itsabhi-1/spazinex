@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "quote": "Spazinex is professional, timely, and have done a nice job managing our account. It has helped tremendously having a lead for our account that can track trends and who really gets to know the IT landscape.",
+    "author": "David Loyed",
+    "authorThumb": "testimonial/client-01.jpg"
+  },
+  {
+    "id": 2,
+    "quote": "Working with Spazinex means we get all of the support we need and always receive top-notch customer service and trustworthy cyber security. When we have issues, Spazinex is quick to resolve them and my team is able to stay on track and be productive. With Spazinex, we’re in good hands.",
+    "author": "Alex Tuntuni",
+    "authorThumb": "testimonial/client-02.jpg"
+  },
+  {
+    "id": 3,
+    "quote": "I needed a company that was as entrepreneurial as we are and that would give us the personal service we require. Our nature as a company keeps us jumping around a lot, and I’ve found that Spazinex actually shares that entrepreneurial spirit and is able to partner with us.",
+    "author": "John Fault",
+    "authorThumb": "testimonial/client-03.jpg"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Creative Team",
+    "text": "Unleashing the Power of Creativity.",
+    "imgSrc": "feature/01.png"
+  },
+  {
+    "id": 2,
+    "title": "Best Service",
+    "text": "Transforming Your Experience Beyond Imagination.",
+    "imgSrc": "feature/02.png"
+  },
+  {
+    "id": 3,
+    "title": "Online Support",
+    "text": "Your trusted companion for seamless online support.",
+    "imgSrc": "feature/03.png"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "name": "Larry Ellison",
+    "designation": "Front End Developer",
+    "profilePic": "team/02.jpg",
+    "bio": "Spazinex They do not see the business of the lustful and corrupt, and what trouble they are about to take, and the times are similar to the fault of the way that the times fall with toil and pain. <br/>The lustful and corrupt do not see what things and what trouble they are about to take.",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@larryellison.com",
+    "website": "www.larryellison.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "UI",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "UX",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Photoshop",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Adobe XD",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Web Designer",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Front End Developer",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Senior Javascript Developer",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BACHELOR IN GRAPHICS",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "DIPLOMA IN ARTS",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "DIPLOMA IN FECEBOOK",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "DIPLOMA IN COMPUTER",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "James Anderson",
+    "designation": "HR & Admin",
+    "profilePic": "team/01.jpg",
+    "bio": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "UI",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "UX",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Photoshop",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Adobe XD",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Web Designer",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Front End Developer",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Senior Javascript Developer",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BACHELOR IN GRAPHICS",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "DIPLOMA IN ARTS",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "DIPLOMA IN FECEBOOK",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "DIPLOMA IN COMPUTER",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Thomas Nancy",
+    "designation": "Software Engineer",
+    "profilePic": "team/03.jpg",
+    "bio": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "UI",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "UX",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Photoshop",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Adobe XD",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Web Designer",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Front End Developer",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Senior Javascript Developer",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BACHELOR IN GRAPHICS",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "DIPLOMA IN ARTS",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "DIPLOMA IN FECEBOOK",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "DIPLOMA IN COMPUTER",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Nail Mathue",
+    "designation": "Creative Designer",
+    "profilePic": "team/04.jpg",
+    "bio": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "UI",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "UX",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Photoshop",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Adobe XD",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Web Designer",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Front End Developer",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Senior Javascript Developer",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BACHELOR IN GRAPHICS",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "DIPLOMA IN ARTS",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "DIPLOMA IN FECEBOOK",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "DIPLOMA IN COMPUTER",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Jeff Bezos",
+    "designation": "UI/UX Designer",
+    "profilePic": "team/05.jpg",
+    "bio": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "UI",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "UX",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Photoshop",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Adobe XD",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Web Designer",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Front End Developer",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Senior Javascript Developer",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BACHELOR IN GRAPHICS",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "DIPLOMA IN ARTS",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "DIPLOMA IN FECEBOOK",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "DIPLOMA IN COMPUTER",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bernard Arnault",
+    "designation": "Web Designer",
+    "profilePic": "team/06.jpg",
+    "bio": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "UI",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "UX",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Photoshop",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Adobe XD",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Web Designer",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Front End Developer",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Senior Javascript Developer",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BACHELOR IN GRAPHICS",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "DIPLOMA IN ARTS",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "DIPLOMA IN FECEBOOK",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "DIPLOMA IN COMPUTER",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Warren Buffett",
+    "designation": "Creative Supporter",
+    "profilePic": "team/07.jpg",
+    "bio": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "UI",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "UX",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Photoshop",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Adobe XD",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Web Designer",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Front End Developer",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Senior Javascript Developer",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BACHELOR IN GRAPHICS",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "DIPLOMA IN ARTS",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "DIPLOMA IN FECEBOOK",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "DIPLOMA IN COMPUTER",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Larry Ellison",
+    "designation": "Front End Developer",
+    "profilePic": "team/02.jpg",
+    "bio": "Larry Ellison is a highly skilled and dedicated Front End Developer with a passion for creating intuitive and visually appealing web experiences. With several years of experience in the industry, Larry has a deep understanding of front-end technologies and a proven track record of delivering high-quality projects.",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "UI",
+        "percentage": 99
+      },
+      {
+        "no": 2,
+        "title": "UX",
+        "percentage": 90
+      },
+      {
+        "no": 3,
+        "title": "JavaScript",
+        "percentage": 95
+      },
+      {
+        "no": 4,
+        "title": "React",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Web Designer",
+        "icon": "team/details/date-1.png",
+        "comment": "served as a senior web designer at a leading design agency, where he played a key role in developing innovative and user-centric websites."
+      },
+      {
+        "no": 2,
+        "designation": "Front End Developer",
+        "icon": "team/details/date-2.png",
+        "comment": "Larry Ellison is an experienced and skilled Front End Developer with a strong track record in creating exceptional user interfaces and engaging web experiences."
+      },
+      {
+        "no": 3,
+        "designation": "Senior Javascript Developer",
+        "icon": "team/details/date-3.png",
+        "comment": "Larry Ellison has been responsible for leading the development and implementation of JavaScript-based web applications. ."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "Master's degree in Software Engineering",
+        "duration": "JAN 2014 - MAY 2016",
+        "comment": "Ellison holds a Bachelor's degree in Computer Science from the prestigious University of Manchester. Throughout his undergraduate studies, he gained knowledge in computer programming."
+      },
+      {
+        "no": 2,
+        "institute": "University of Manchester",
+        "degree": "Bachelor's degree in Computer Science",
+        "duration": "JAN 2010 - DEC 2014",
+        "comment": "Ellison holds a Bachelor's degree in Computer Science from the prestigious University of Manchester. Throughout his undergraduate studies, he gained knowledge in computer programming."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "DIPLOMA IN FECEBOOK",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "DIPLOMA IN COMPUTER",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Spazinex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  }
+]

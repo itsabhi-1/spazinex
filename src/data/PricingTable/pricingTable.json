@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "planName": "Silver",
+    "currencyType": "$",
+    "planPrice": "10",
+    "subscribePlan": "mo",
+    "planFeatures": [
+      "Branding strategy identity",
+      "Marketing campaign & PR",
+      "24/7 customer support",
+      "Content development"
+    ]
+  },
+  {
+    "id": 2,
+    "planName": "Gold",
+    "currencyType": "$",
+    "planPrice": "100",
+    "subscribePlan": "mo",
+    "planFeatures": [
+      "silver + Get free hosting",
+      "silver + Tour vouchers",
+      "silver + Gift cards",
+      "silver + Logo designing"
+    ]
+  },
+  {
+    "id": 3,
+    "planName": "Platinum",
+    "currencyType": "$",
+    "planPrice": "500",
+    "subscribePlan": "mo",
+    "planFeatures": [
+      "gold + Server",
+      "gold + Cloud Storage",
+      "gold + AI Tools",
+      "gold + Web Development"
+    ]
+  }
+]

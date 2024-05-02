@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Grow Your Business With Us",
+    "text": "Spazinex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly.",
+    "bg": "slider/01.jpg",
+    "btnText": "Learn More",
+    "btnLink": "/about"
+  },
+  {
+    "id": 2,
+    "title": "Invest with us & Grow Business",
+    "text": "Spazinex Empowering Businesses with Transformative Solutions. Driving Growth and Success in Today's Competitive Landscape.",
+    "bg": "slider/02.jpg",
+    "btnText": "Learn More",
+    "btnLink": "/about"
+  }
+]

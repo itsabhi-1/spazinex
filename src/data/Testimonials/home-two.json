@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "quote": "Spazinex is professional, timely, and have done a nice job managing our account. It has helped tremendously having a lead for our account that can track trends and who really gets to know the IT landscape.",
+    "author": "Michael Robinson",
+    "authorThumb": "testimonial/h-2-t-01.png",
+    "designation": "CTO, Aflex Group"
+  },
+  {
+    "id": 2,
+    "quote": "My staff told me that Spazinex was super professional and friendly. They did their job without interfering with the staff or impeding the workflow. Thank you! I know this kind of attitude filters down from the top.",
+    "author": "Evelyn Martinez",
+    "authorThumb": "testimonial/h-2-t-02.png",
+    "designation": "Co-Founder, Tuntuni Group"
+  },
+  {
+    "id": 3,
+    "quote": "Spazinex listened to what we wanted and what we needed instead of just telling us. They respect the fact that we’re non-profit and try to find ways to meet our needs.",
+    "author": "Mia Johnson",
+    "authorThumb": "testimonial/h-2-t-03.png",
+    "designation": "COO, Mafia Group"
+  }
+]
